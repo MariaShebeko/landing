@@ -112,7 +112,7 @@ function App() {
       </section>
 
       <footer>
-        <p>&copy; 2024 Company Name. All rights reserved.</p>
+        <p>&copy; 2024 New Design. All rights reserved.</p>
       </footer>
 
       {showScroll && (
